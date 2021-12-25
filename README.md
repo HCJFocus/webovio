@@ -1,2 +1,3 @@
 # webovio
-ADAPTIVE NO!
+
+Учебный сайт
